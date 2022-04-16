@@ -1,0 +1,7 @@
+{
+  "name": "gmailIonic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
